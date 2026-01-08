@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=2E8B57&center=true&vCenter=true&repeat=false&width=500&lines=Employee+Salary+Calculator;C%2B%2B+OOP+Console+App;Robust+Financial+Reporting" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=2E8B57&center=true&vCenter=true&repeat=false&width=500&lines=Employee+Salary+Calculator;C%2B%2B+OOP+Console+App;Financial+Reporting" alt="Typing SVG" />
 </h1>
 
 <div align="center">
