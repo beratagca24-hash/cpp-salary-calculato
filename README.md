@@ -16,6 +16,23 @@
 
 ---
 
+## 📂 Source Code
+
+<div align="center">
+
+<a href="./main.cpp">
+  <img src="https://img.shields.io/badge/CLICK_HERE_TO_VIEW_SOURCE_CODE-2E8B57?style=for-the-badge&logo=cplusplus&logoColor=white" alt="View Source Code"/>
+</a>
+
+<br/>
+<br/>
+
+*Click the button above to inspect the `main.cpp` file directly.*
+
+</div>
+
+---
+
 ## 🚀 Features
 
 <div align="center">
@@ -26,34 +43,36 @@
 
 </div>
 
-- **🏗️ OOP Design:** Built using modern Object-Oriented Programming principles (Classes & Methods).
+- **🏗️ OOP Design:** Built using modern Object-Oriented Programming principles.
 - **⏱️ Weekly Tracking:** Collects working hours separately for 4 weeks.
-- **💸 Commission Logic:** Calculates bonuses based on total sales and percentage rates.
-- **🔄 Repeatable Cycle:** Allows multiple calculations without restarting.
+- **💸 Commission Logic:** Calculates bonuses based on total sales.
 
 ---
 
-## 🛠 Tech Stack & Concepts
+## 🛠 Tech Stack
 
 <div align="center">
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![OOP](https://img.shields.io/badge/Object_Oriented_Programming-000000?style=for-the-badge&logo=codeforces&logoColor=white)
 ![Standard Library](https://img.shields.io/badge/STL-Standard_Template_Library-red?style=for-the-badge)
-![I/O Streams](https://img.shields.io/badge/IO_Streams-iomanip-blue?style=for-the-badge)
 
 </div>
 
 ---
 
-## 💻 How to Run
+## 📸 Example Output
 
-```bash
-# 1. Clone the repository
-git clone [https://github.com/beratagca24-hash/cpp-salary-calculato.git](https://github.com/beratagca24-hash/cpp-salary-calculato.git)
-
-# 2. Compile the code
-g++ main.cpp -o salary_app
-
-# 3. Run the application
-./salary_app
+```text
+==================================================
+|           PERSONEL MAAS SISTEMI v2.0           |
+==================================================
+[ADIM 1] Kisisel Bilgiler
+>> Ad: Berat
+>> Soyad: Agca
+...
+**************************************************
+* MAAS HESAPLAMA RAPORU              *
+**************************************************
+ODENECEK NET MAAS:                   23000.00 TL
+**************************************************
